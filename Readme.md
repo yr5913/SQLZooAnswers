@@ -7,11 +7,11 @@ Each SQL file corresponds to a different section of the tutorial and contains th
 # Files
 Here is a list of the files in this repository, organized by section:
 
-selectBasicsSQLZoo.sql: Basic querying exercises --> https://sqlzoo.net/wiki/SELECT_basics
-selectFromNobelSQLZoo.sql: Querying data from the "nobel" table  --> https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial
-selectFromWorldSQLZoo.sql: Querying data from the "nobel" table  --> https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial
-selectInSelectSQLZoo.sql: Querying data Using select in select --> https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial
-sumAndCountSQLZoo.sql: Aggregate queries --> https://sqlzoo.net/wiki/SUM_and_COUNT
+* selectBasicsSQLZoo.sql: Basic querying exercises --> https://sqlzoo.net/wiki/SELECT_basics
+* selectFromNobelSQLZoo.sql: Querying data from the "nobel" table  --> https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial
+* selectFromWorldSQLZoo.sql: Querying data from the "nobel" table  --> https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial
+* selectInSelectSQLZoo.sql: Querying data Using select in select --> https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial
+* sumAndCountSQLZoo.sql: Aggregate queries --> https://sqlzoo.net/wiki/SUM_and_COUNT
 
 
 # How to Use
