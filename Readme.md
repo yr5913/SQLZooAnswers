@@ -12,6 +12,8 @@ Here is a list of the files in this repository, organized by section:
 * selectFromWorldSQLZoo.sql: Querying data from the "nobel" table  --> https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial
 * selectInSelectSQLZoo.sql: Querying data Using select in select --> https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial
 * sumAndCountSQLZoo.sql: Aggregate queries --> https://sqlzoo.net/wiki/SUM_and_COUNT
+* joinSQLZoo.sql: Join queries --> https://sqlzoo.net/wiki/The_JOIN_operation
+* moreJoinSQLZoo.sql: Join queries --> https://sqlzoo.net/wiki/More_JOIN_operations
 
 
 # How to Use
