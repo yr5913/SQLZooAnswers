@@ -14,8 +14,8 @@ Here is a list of the files in this repository, organized by section:
 * sumAndCountSQLZoo.sql: Aggregate queries --> https://sqlzoo.net/wiki/SUM_and_COUNT
 * joinSQLZoo.sql: Join queries --> https://sqlzoo.net/wiki/The_JOIN_operation
 * moreJoinSQLZoo.sql: Join queries --> https://sqlzoo.net/wiki/More_JOIN_operations
-* usingNullSQLZoo.sql: Join queries --> https://sqlzoo.net/wiki/Using_Null
-* selfJoinSQLZoo.sql: Join queries --> https://sqlzoo.net/wiki/Self_join
+* usingNullSQLZoo.sql: Querying data with null values --> https://sqlzoo.net/wiki/Using_Null
+* selfJoinSQLZoo.sql: Self Join Queries --> https://sqlzoo.net/wiki/Self_join
 
 
 
